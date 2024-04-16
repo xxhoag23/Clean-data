@@ -1,0 +1,16 @@
+CustomerID,CustomerName,Address,Email,Phone
+1,John Smith,123 Main Street,john@example.com,5551234
+2,Jane Doe,456 Elm Street,jane@example.com,5555678
+3,David Johnson,789 Oak Avenue,david@example.com,5559012
+4,Sarah Williams,321 Pine Road,sarah@example.com,5553456
+5,Michael Brown,987 Cedar Lane,michael@example.com,5557890
+6,Emily Davis,654 Birch Court,emily@example.com,5552345
+7,Robert Wilson,890 Maple Drive,robert@example.com,5556789
+8,Olivia Taylor,234 Elm Avenue,olivia@example.com,5550123
+9,James Anderson,567 Oak Street,james@example.com,5554567
+10,Sophia Thomas,901 Pine Lane,sophia@example.com,5558901
+11,Benjamin Martinez,345 Cedar Road,benjamin@example.com,5552345
+12,Ava Hernandez,678 Birch Avenue,ava@example.com,5556789
+13,Ethan Young,912 Maple Street,ethan@example.com,5550123
+14,Mia King,123 Elm Court,mia@example.com,5554567
+15,Alexander Lee,456 Oak Drive,alexander@example.com,5558901
